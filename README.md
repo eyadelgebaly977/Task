@@ -1,1 +1,1 @@
-"# Task" 
+To Run the test navigate to Task/src/test/java/org/example/testRunner/Runner.java 
