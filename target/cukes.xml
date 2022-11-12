@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="26.766">
+<testcase classname="Automation Task" name="An automation task is needed to simulate the search for a lesson on nagwa website then opening the lesson worksheet to count the number of questions in this worksheet" time="26.623">
+<system-out><![CDATA[Given Use the search icon to start searching on Nagwa lessons...............passed
+And Write any lesson name for example “addition” then search................passed
+And A list with all lessons in Nagwa that match this name will appear.......passed
+And Click on 2nd lesson in the search results to open its home page.........passed
+And Go to worksheet section then click preview button.......................passed
+Then print the count........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
